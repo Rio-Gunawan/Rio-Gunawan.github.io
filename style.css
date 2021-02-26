@@ -24,6 +24,7 @@ table {
 
 th {
     background-color: yellowgreen;
+    height: 40px;
 }
 
 #num {
@@ -32,4 +33,5 @@ th {
 
 td {
     background-color: #ddd;
+    height: 40px;
 }
