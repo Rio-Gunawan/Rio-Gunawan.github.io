@@ -18,7 +18,7 @@ h1 {
 }
 
 table {
-    width: 500px;
+    width: 700px;
     margin: 0 auto;
 }
 
@@ -29,6 +29,10 @@ th {
 
 #num {
     width: 50px;
+}
+
+#word {
+    width: 200px
 }
 
 td {
